@@ -55,7 +55,7 @@ Quản lí bài viết:
 
 Quản lí thống kê:
 -	Xuất hoá đơn theo thời gian cụ thể
--	Xuất hoá đơn sản phẩm từng ngày (“kể những mặt hàng đã xoá”)
+-	Xuất hoá đơn sản phẩm từng ngày
 -	Đồ thị thống kê theo thời gian cụ thể
 -	Đồ thị thống kê trong ngày
 -	Đồ thị thống kê tổng
