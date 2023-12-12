@@ -6,6 +6,14 @@ https://www.pihalo.site
 
 Công nghệ sử dụng: Spring Frammework, jsp, Hibernate, AWS
 
+![image](https://github.com/hoangsonvn/Ecommere-Website/assets/105777379/860f234d-8062-40aa-9867-f095ee2ba64e)
+![image](https://github.com/hoangsonvn/Ecommere-Website/assets/105777379/892d5169-eb26-4839-b6c7-583d967930d3)
+![image](https://github.com/hoangsonvn/Ecommere-Website/assets/105777379/f6b8e509-daf1-4c46-8dc8-39c3b33dacd3)
+![image](https://github.com/hoangsonvn/Ecommere-Website/assets/105777379/84c1c819-0df0-401f-b075-f4bb8fccfc9e)
+![image](https://github.com/hoangsonvn/Ecommere-Website/assets/105777379/02a7116f-289b-43e6-9d64-4bf68965a4c0)
+![image](https://github.com/hoangsonvn/Ecommere-Website/assets/105777379/7d80e0ec-642e-4768-9deb-609c37b815cf)
+
+
 Các chức năng chính:
 
 NGƯỜI DÙNG:
